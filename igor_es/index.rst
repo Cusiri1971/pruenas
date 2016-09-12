@@ -6,17 +6,10 @@
 Welcome to Comenzando con GitHub's documentation!
 =================================================
 
-Contents:
 
 .. toctree::
-   :maxdepth: 2
+	:maxdepth: 2
+	:numbered:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+	introduccion.rst
 
