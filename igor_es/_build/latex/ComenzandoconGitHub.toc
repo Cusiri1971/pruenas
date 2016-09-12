@@ -11,3 +11,12 @@
 \contentsline {chapter}{\numberline {4}CAP\IeC {\'I}TULO: USANDO M\IeC {\'A}S COSAS}{15}{chapter.4}
 \contentsline {section}{\numberline {4.1}Listas sin orden}{15}{section.4.1}
 \contentsline {section}{\numberline {4.2}Listas ordenadas}{15}{section.4.2}
+\contentsline {part}{IV\hspace {1em}PROVINCIAS DEL BENI}{17}{part.4}
+\contentsline {chapter}{\numberline {5}Provincia Cercado}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}Municipio de Trinidad}{19}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Ciudad de la Sant\IeC {\'\i }sima Trinidad}{19}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Localidad de San Javier}{19}{subsection.5.1.2}
+\contentsline {chapter}{\numberline {6}Provincia Marb\IeC {\'a}n}{21}{chapter.6}
+\contentsline {section}{\numberline {6.1}Municipio de Loreto}{21}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Ciudad de Loreto}{21}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Localidad de San Andr\IeC {\'e}s}{21}{subsection.6.1.2}

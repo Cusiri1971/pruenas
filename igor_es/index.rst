@@ -13,4 +13,5 @@ Welcome to Comenzando con GitHub's documentation!
 
 	introduccion.rst
 	imagenes.rst
+	provincias.rst
 

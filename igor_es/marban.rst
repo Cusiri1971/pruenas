@@ -1,0 +1,42 @@
+.. _marban:
+
+*****************
+Provincia Marbán
+*****************
+
+Divida en dos Municipios, `Loreto`y `San Andrés`.
+
+.. _mun_loreto:
+
+Municipio de Loreto
+**********************
+
+Se dice mucho de estooo  y bla bla bla bla bla bla.
+
+.. _loreto:
+
+Ciudad de Loreto
+------------------
+
+Ubicada en la :ref:`marban` Capital del Departamento del Beni.
+
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla op
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 8uyyyy
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+
+.. _san_andres:
+
+Localidad de San Andrés
+------------------------
+
+Ubicada en la :ref:`marban` Capital del Departamento del Beni.
+
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla op
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 8uyyyy
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+
+Forma parte de las :ref:`provincias` que actualmente forman parte de la División Político Administrativa de Bolivia.
