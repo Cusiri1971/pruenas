@@ -29,11 +29,6 @@ import os
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.doctest',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.todo',
-    'sphinx.ext.coverage',
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
 ]
@@ -235,7 +230,7 @@ latex_documents = [
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-#latex_logo = None
+latex_logo = '_static/igor.jpg'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
@@ -259,7 +254,7 @@ latex_use_parts = True
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'comenzandocongithub', u'Comenzando con GitHub Documentation',
+    ('index', 'comenzandocongithub', u'Comenzando con GitHub Documentation',
      [author], 1)
 ]
 
@@ -273,8 +268,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'ComenzandoconGitHub', u'Comenzando con GitHub Documentation',
-     author, 'ComenzandoconGitHub', 'One line description of project.',
+    ('index', 'ComenzandoconGitHub', u'Comenzando con GitHub Documentation',
+     u'Igor Dávalos', 'ComenzandoconGitHub', 'One line description of project.',
      'Miscellaneous'),
 ]
 

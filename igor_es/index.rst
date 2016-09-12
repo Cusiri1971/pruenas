@@ -12,4 +12,5 @@ Welcome to Comenzando con GitHub's documentation!
 	:numbered:
 
 	introduccion.rst
+	imagenes.rst
 

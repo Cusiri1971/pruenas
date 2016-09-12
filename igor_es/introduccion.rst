@@ -1,3 +1,6 @@
+.. |igor_avatar2| image:: _static/igor2.jpg
+	:width: 100pt
+
 .. _Introducción:
 
 ********************
@@ -33,6 +36,10 @@ CAPÍTULO: SEGUNDO DE LA SEGUNDA PARTE
 
 ¿Será que así que se van estructurando las partes y los capítulos?
 
+Una imagen suelta
+
+|igor_avatar2|
+
 .. _colocarnum:
 
 Si coloco otro caracter ¿cómo se estructura?
@@ -49,6 +56,18 @@ Con estos cambios debería aparecer la numeración
 
 Realicé nuevos cambios. Voy a insertar una ecuación, luego buscaré sobre sintaxis de las ecuaciones mathjax.
 
+Una ecuación en su propia línea:
+
 .. math:: X = A_b + Z^2
 
+Una ecuación en línea con el texto sería :math:`H^2 = L_a * L_b` y después seguiría escribiento texto.
+
+
 No consigo que se muestre la numeración de las secciones
+
+Primeras referencias
+---------------------
+Ir a :ref:`Introducción` para mayores detalles
+
+O directamente al :ref:`capitulo1` que es donde comienza todo.
+
