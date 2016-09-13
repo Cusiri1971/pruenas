@@ -40,3 +40,20 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
 
 Forma parte de las :ref:`provincias` que actualmente forman parte de la División Político Administrativa de Bolivia.
+
+**Todavía no consigo que salgan numerados los títulos**
+
+La fórmula sería: :math:`Sale - Nosale = NoSabe` es decir, que no sé cómo hacerlo.
+
+A seguir leyendo.
+
+*¿será que es necesario tocar algún archivo de configuración de Latex?*
+
+*O ¿del documentClass?*
+
+**Ya me congelé...**
+
+Mier.....
+
+
+Comenzando el **sampledoc** de *John Hunter, Fernando Perez, Michael Droettboom*

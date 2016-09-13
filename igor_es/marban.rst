@@ -54,3 +54,6 @@ A seguir leyendo.
 **Ya me congelé...**
 
 Mier.....
+
+
+Comenzando el **sampledoc** de *John Hunter, Fernando Perez, Michael Droettboom*
