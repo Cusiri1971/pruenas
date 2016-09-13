@@ -1,24 +1,25 @@
-.. _marban:
+.. _cercado:
 
-*****************
-Provincia Marbán
-*****************
+******************
+Provincia Cercado
+******************
 
-Divida en dos Municipios, `Loreto`y `San Andrés`.
+Está dividida en dos Municipio, `Municipio de Trinidad` y `Municipio de San Javier`.
+Capital Trinidad, que tambiéne s Capital del Departamento del Beni y del Municipio de Trinidad.
 
-.. _mun_loreto:
+.. _mun_trinidad:
 
-Municipio de Loreto
+Municipio de Trinidad
 **********************
 
 Se dice mucho de estooo  y bla bla bla bla bla bla.
 
-.. _loreto:
+.. _trinidad:
 
-Ciudad de Loreto
-------------------
+Ciudad de la Santísima Trinidad
+--------------------------------
 
-Ubicada en la :ref:`marban` Capital del Departamento del Beni.
+Ubicada en la :ref:`cercado` Capital del Departamento del Beni.
 
 Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
@@ -26,31 +27,15 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 8uyyyy
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
 
-.. _san_andres:
+.. _san_javier:
 
-Localidad de San Andrés
+Localidad de San Javier
 ------------------------
 
-Ubicada en la :ref:`marban` Capital del Departamento del Beni.
+Ubicada en la :ref:`cercado` Capital del Departamento del Beni.
 
 Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla op
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 8uyyyy
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
-
-Forma parte de las :ref:`provincias` que actualmente forman parte de la División Político Administrativa de Bolivia.
-
-**Todavía no consigo que salgan numerados los títulos**
-
-La fórmula sería: :math:`Sale - Nosale = NoSabe` es decir, que no sé cómo hacerlo.
-
-A seguir leyendo.
-
-*¿será que es necesario tocar algún archivo de configuración de Latex?*
-
-*O ¿del documentClass?*
-
-**Ya me congelé...**
-
-Mier.....

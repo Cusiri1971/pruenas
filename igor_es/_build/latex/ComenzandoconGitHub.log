@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.2)  12 SEP 2016 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.2)  12 SEP 2016 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1126,20 +1126,20 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 ]
 Chapter 6.
 (./ComenzandoconGitHub.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 380.
  [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 366.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 380.
  (./ComenzandoconGitHub.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 366.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 366.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 380.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 380.
 Package rerunfilecheck Info: File `ComenzandoconGitHub.out' has not changed.
 (rerunfilecheck)             Checksum: 32C29ED26B36A4512D203E5EAE5B1073;1195.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 366.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 380.
  ) 
 Here is how much of TeX's memory you used:
  9660 strings out of 494953
  135109 string characters out of 6180978
- 232322 words of memory out of 5000000
+ 232323 words of memory out of 5000000
  12592 multiletter control sequences out of 15000+600000
  68245 words of font info for 77 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
@@ -1155,7 +1155,7 @@ b></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on ComenzandoconGitHub.pdf (25 pages, 154065 bytes).
+Output written on ComenzandoconGitHub.pdf (25 pages, 159132 bytes).
 PDF statistics:
  286 PDF objects out of 1000 (max. 8388607)
  238 compressed objects within 3 object streams
