@@ -4,6 +4,10 @@
 Provincia Marbán
 *****************
 
+.. |br| raw:: html
+
+ <br />
+
 Divida en dos Municipios, `Loreto`y `San Andrés`.
 
 .. _mun_loreto:
@@ -39,6 +43,16 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 8uyyyy
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
 
+
+ |br|
+	
+Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...
+Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...
+Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...
+Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...
+
+ |br|
+	
 Forma parte de las :ref:`provincias` que actualmente forman parte de la División Político Administrativa de Bolivia.
 
 **Todavía no consigo que salgan numerados los títulos**
@@ -55,5 +69,17 @@ A seguir leyendo.
 
 Mier.....
 
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla op
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 8uyyyy
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
 
+Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...
+Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...
+Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...
+Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...Mambrú se fue a la guerra...
+
+ |br|
+	
 Comenzando el **sampledoc** de *John Hunter, Fernando Perez, Michael Droettboom*
