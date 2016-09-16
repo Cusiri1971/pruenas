@@ -16,7 +16,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="61"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span &gt;Band calc&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span &gt;Calculadora de Banda&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span &gt;Calculadora de Bandas&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="81"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="359"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span &gt;Band set&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span &gt;Grupo de Bandas&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span &gt;Juego de Bandas&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="379"/>
@@ -198,7 +198,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="824"/>
         <source>ROI creation</source>
-        <translation>ROI creación de</translation>
+        <translation>Creación de ROI</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="841"/>
@@ -438,7 +438,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="1752"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the Land Cover Signature Classification is used&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Si está seleccionado, se usará la Clasificación de Firmas de Cobertura Terrestre&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Si está seleccionado, se usará la Clasificación de Firmas de la Cobertura del Suelo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="1755"/>
@@ -463,12 +463,13 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="1775"/>
         <source>only overlap</source>
+        <translatorcomment>otra traducción sería solapamiento</translatorcomment>
         <translation>solo sobreposición</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="1782"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Open tab LCS threshold&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abrir pestaña Umbral de LCS&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Abrir pestaña Umbral de Firmas de Cobertura del Suelo LCS-Land Cover Signature&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="1821"/>
@@ -503,6 +504,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin_dock_class.ui" line="1931"/>
         <source>Create vector</source>
+        <translatorcomment>o vectorial que se refieren a formas vectoriales</translatorcomment>
         <translation>Crear vector</translation>
     </message>
     <message>
@@ -854,7 +856,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="3340"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export download links to a text file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exporta los enlaces descargados a un archivo de texto&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exporta los enlaces de descarga a un archivo de texto&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="2526"/>
@@ -929,7 +931,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="2834"/>
         <source>yyyy-MM-dd</source>
-        <translation>aaaa-MM-dd</translation>
+        <translation>yyyy-MM-dd</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="2790"/>
@@ -944,7 +946,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="2847"/>
         <source>to</source>
-        <translation>a</translation>
+        <translation>hasta</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="2860"/>
@@ -1009,7 +1011,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="3160"/>
         <source>ImageID</source>
-        <translation>ImágenID</translation>
+        <translation>ImagenID</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="3165"/>
@@ -1214,7 +1216,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="2007"/>
         <source>ImageName</source>
-        <translation>NombreDeImágeen</translation>
+        <translation>NombreDeImagen</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="2012"/>
@@ -1424,7 +1426,7 @@
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="3785"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p &gt;Export point list to text file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p &gt;Exportar la lista de puntos a un archovo de texto&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p &gt;Exportar la lista de puntos a un archivo de texto&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="3821"/>
@@ -1577,7 +1579,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="4533"/>
         <source>Export signatures</source>
-        <translation>Exportar librerías</translation>
+        <translation>Exportar firmas</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="4557"/>
@@ -1687,7 +1689,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="5456"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set a value that will be multiplied by standard deviation&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Establecer el valor que será multiplicado por la esviación estándar&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Establecer el valor que será multiplicado por la desviación estándar&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message utf8="true">
         <location filename="ui_semiautomaticclassificationplugin.ui" line="5472"/>
@@ -1717,7 +1719,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="5324"/>
         <source>LC Signature threshold</source>
-        <translation>Umbral de LC Signature</translation>
+        <translation>Umbral de Cobertura del Suelo - LC Signature</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="5338"/>
@@ -1992,7 +1994,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="6570"/>
         <source>Date (YYYY-MM-DD)</source>
-        <translation>Fecha (AAAA-MM-DD)</translation>
+        <translation>Date (YYYY-MM-DD)</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="7501"/>
@@ -2087,7 +2089,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="7527"/>
         <source>Date (YYYYMMDD)</source>
-        <translation>Fecha (AAAAMMDD)</translation>
+        <translation>Date (YYYY-MM-DD)</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="7570"/>
@@ -2267,7 +2269,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="8693"/>
         <source> Principal Components Analysis of Band set</source>
-        <translation>Análisis de Componentes Principales de un Juego de bandas</translation>
+        <translation> Análisis de Componentes Principales de un Juego de bandas</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="10026"/>
@@ -3145,7 +3147,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="13767"/>
         <source> Band set tools</source>
-        <translation>Herramientas para Juego de bandas</translation>
+        <translation> Herramientas para Juego de bandas</translation>
     </message>
     <message>
         <location filename="ui_semiautomaticclassificationplugin.ui" line="13990"/>
@@ -3425,30 +3427,13 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-style:italic;&quot;&gt;This plugin requires the installation of GDAL, OGR, Numpy, SciPy, and Matplotlib (already bundled with QGIS).&lt;/span&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&lt;br /&gt;The Semi-Automatic Classification Plugin is developed by Luca Congedo.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Translators:&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Language: Author&lt;br /&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Semi-Automatic Classification Plugin is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Semi-Automatic Classification Plugin is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with Semi-Automatic Classification Plugin. If not, see &amp;lt;&lt;/span&gt;&lt;a href=&quot;http://www.gnu.org/licenses/&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline; color:#0000ff;&quot;&gt;http://www.gnu.org/licenses/&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Desarrollado por &lt;/span&gt;&lt;a href=&quot;http://www.researchgate.net/profile/Luca_Congedo&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#0057ae;&quot;&gt;Luca Congedo&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; (ing.congedoluca@gmail.com), el &lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Semi-Automatic Classification Plugin&lt;/span&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; (SCP) es un complemento gratuito de código abierto para QGIS que realiza la clasificación semi automática (clasificación supervisada) de imágenes de sensores remotos.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Proporciona muchas herramientas para la descarga de imágenes gratuitas, el preprocesamiento, el postprocesamiento y los cálculos ráster.&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Para mayor información y tutoriales visita el sitio oficial &lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;From GIS to Remote Sensing.&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;:/plugins/semiautomaticclassificationplugin/icons/fromGIStoRS.png&quot; /&gt;&lt;a href=&quot;http://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html?spref=sacp&quot;&gt;&lt;span style=&quot; font-size:14pt; text-decoration: underline; color:#0000ff;&quot;&gt;From GIS to Remote Sensing&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;a href=&quot;https://www.facebook.com/groups/SemiAutomaticClassificationPlugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;Grupo en Facebook Semi-Automatic Classification Plugin &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://plus.google.com/communities/107833394986612468374&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0057ae;&quot;&gt;Comunidad en Google+ Semi-Automatic Classification Plugin&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-style:italic;&quot;&gt;Este complemento requiere la instalación de GDAL, OGR, Numpy, SciPy, and Matplotlib (ya incluido con QGIS).&lt;/span&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&lt;br /&gt;EL Semi-Automatic Classification Plugin es desarrollado por Luca Congedo.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Semi-Automatic Classification Plugin es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia GNU General Public License como está publicada por la Free Software Foundation, version 3 de la Licencia.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Semi-Automatic Classification Plugin es distribuido con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA; ni siquiera la garantía implícitade COMERCIALIZACIÓN o ADAPTARLO A PROPOSITOS ESPECÍFICOS.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Mira la GNU General Public License para más detalles. Deberías haber recibido una copia de la GNU General Public License junto con el Semi-Automatic Classification Plugin. Si no es así, lee &amp;lt;&lt;/span&gt;&lt;a href=&quot;http://www.gnu.org/licenses/&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline; color:#0000ff;&quot;&gt;http://www.gnu.org/licenses/&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translatorcomment>Se deja sin traducir porque cambia constantemente.</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3647,72 +3632,72 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>semiautomaticclassificationplugin</name>
     <message>
-        <location filename="semiautomaticclassificationplugin.py" line="1363"/>
+        <location filename="semiautomaticclassificationplugin.py" line="1383"/>
         <source>Please, restart QGIS for executing the Semi-Automatic Classification Plugin</source>
         <translation>Por favor, reinicia QGIS para ejecutar el Semi-Automatic Classification Plugin</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="307"/>
+        <location filename="classificationdock.py" line="309"/>
         <source>Select a mask shapefile</source>
         <translation>Selecciona archivo shape de máscara</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="525"/>
+        <location filename="classificationdock.py" line="529"/>
         <source>Save classification output</source>
         <translation>Guardar los resultados de la clasificación</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="621"/>
+        <location filename="classificationdock.py" line="625"/>
         <source> conversion to vector. Please wait ...</source>
         <translation>convirtiendo a vectorial. Por favor espera ...</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="717"/>
+        <location filename="classificationdock.py" line="721"/>
         <source>Select a qml style</source>
         <translation>Selecciona un estilo qml</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="787"/>
+        <location filename="classificationdock.py" line="791"/>
         <source>Select a signature list file</source>
         <translation>Selecciona un archivo de lista de firma</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="801"/>
+        <location filename="classificationdock.py" line="805"/>
         <source>Select a SCP training input</source>
         <translation>Selecciona una Entrada de Entrenamiento SCP</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="1111"/>
+        <location filename="classificationdock.py" line="1115"/>
         <source>Export SCP training input</source>
         <translation>Exportar Entrada de Entrenamiento SCP</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="1186"/>
+        <location filename="classificationdock.py" line="1190"/>
         <source>Select a library file</source>
         <translation>Selecciona un archivo de librería</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="1215"/>
+        <location filename="classificationdock.py" line="1219"/>
         <source>Export the highlighted signatures to CSV library</source>
         <translation>Exportar las firmas seleccionadas a librería CSV</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="1288"/>
+        <location filename="classificationdock.py" line="1292"/>
         <source>Calculate signatures</source>
         <translation>Calcular firmas</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="1288"/>
+        <location filename="classificationdock.py" line="1292"/>
         <source>Calculate signatures for highlighted items?</source>
         <translation>¿Calcular firmas para los elementos seleccionados?</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="1314"/>
+        <location filename="classificationdock.py" line="1318"/>
         <source>Merge signatures</source>
         <translation>Combinar firmas</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="1314"/>
+        <location filename="classificationdock.py" line="1318"/>
         <source>Merge highlighted signatures?</source>
         <translation>¿Combinar firmas seleccionadas?</translation>
     </message>
@@ -3722,39 +3707,39 @@ p, li { white-space: pre-wrap; }
         <translation>Eliminar firmas</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="1435"/>
+        <location filename="classificationdock.py" line="1439"/>
         <source>Are you sure you want to delete highlighted ROIs and signatures?</source>
         <translation>¿Estás seguro que quieres eliminar los ROIs y las firmas seleccionadas?</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="2027"/>
+        <location filename="classificationdock.py" line="2031"/>
         <source>Create SCP training input</source>
         <translation>Crear Entrenamiento de Entrada SCP</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="2139"/>
+        <location filename="classificationdock.py" line="2143"/>
         <source>Add required fds</source>
         <translation>Añadir los fondos requeridos</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="2139"/>
+        <location filename="classificationdock.py" line="2143"/>
         <source>It appears that the shapefile </source>
         <translation>Parece que el archivo shape</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="2139"/>
+        <location filename="classificationdock.py" line="2143"/>
         <source> is missing some fields that are required for the signature calculation. 
 Do you want to add the required fields to this shapefile?</source>
         <translation>no se encuentran algunos campos que son requeridos para el cálculo de firmas.
 ¿Deseas agregar los campos requeridos a este archivo shape?</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="2223"/>
+        <location filename="classificationdock.py" line="2227"/>
         <source>Undo save ROI</source>
         <translation>Deshacer guardar ROI</translation>
     </message>
     <message>
-        <location filename="classificationdock.py" line="2223"/>
+        <location filename="classificationdock.py" line="2227"/>
         <source>Are you sure you want to delete the last saved ROI?</source>
         <translation>¿Estás seguro que quieres eliminar el último ROI guardado?</translation>
     </message>
@@ -4421,7 +4406,7 @@ Una razón posible: la entrada es un ráster virtual o la banda no se cargó</tr
         <translation>Selecciona un archivo shape</translation>
     </message>
     <message>
-        <location filename="utils.py" line="2013"/>
+        <location filename="utils.py" line="2122"/>
         <source>Please wait ...</source>
         <translation>Por favor espera ...</translation>
     </message>
@@ -4621,7 +4606,7 @@ Una razón posible: la entrada es un ráster virtual o la banda no se cargó</tr
         <translation>reporte</translation>
     </message>
     <message>
-        <location filename="classreportTab.py" line="86"/>
+        <location filename="classreportTab.py" line="85"/>
         <source>Unknown</source>
         <translation>Desconocido</translation>
     </message>
@@ -4641,7 +4626,7 @@ Una razón posible: la entrada es un ráster virtual o la banda no se cargó</tr
         <translation>Guardar archivo shape de salida</translation>
     </message>
     <message>
-        <location filename="clipmultiplerasters.py" line="124"/>
+        <location filename="clipmultiplerasters.py" line="128"/>
         <source>Select a directory where to save clipped rasters</source>
         <translation>Selecciona un directorio para guardar los rásters cortados</translation>
     </message>
@@ -4701,7 +4686,7 @@ Una razón posible: la entrada es un ráster virtual o la banda no se cargó</tr
         <translation>Seleccionar archivo MTL</translation>
     </message>
     <message>
-        <location filename="multipleroiTab.py" line="213"/>
+        <location filename="multipleroiTab.py" line="214"/>
         <source>Save the point list to file</source>
         <translation>Guardar la lista de puntos a un archivo</translation>
     </message>
@@ -4904,6 +4889,11 @@ Una razón posible: la entrada es un ráster virtual o la banda no se cargó</tr
         <location filename="spectralsignatureplot.py" line="1033"/>
         <source>Are you sure you want to undo thresholds?</source>
         <translation>¿Estás seguro que quieres deshacer los umbrales?</translation>
+    </message>
+    <message>
+        <location filename="semiautomaticclassificationplugin.py" line="361"/>
+        <source>Please, restart QGIS for executing the Semi-Automatic Classification Plugin. Possible missing dependecies.</source>
+        <translation>Por favor, reinicia QGIS para ejecutar el complemento Semi-Automatic Classification Plugin. Es posible que existan dependencias perdidas.</translation>
     </message>
 </context>
 </TS>
