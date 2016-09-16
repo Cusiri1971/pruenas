@@ -116,7 +116,7 @@ gettext_compact = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'bizstyle'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -246,7 +246,7 @@ latex_use_parts = True
 latex_show_pagerefs = True
 
 # If true, show URL addresses after external links.
-latex_show_urls = 1
+latex_show_urls = True
 
 # Documents to append as an appendix to all manuals.
 #latex_appendices = []
