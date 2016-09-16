@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Igor F. Dávalos Rojas
+# This file is distributed under the same license as the Tercera Prueba Sphinx package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tercera Prueba Sphinx 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-15 11:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../cap03.rst:5
+msgid "Tercera Sección"
+msgstr ""
+
+#: ../../cap03.rst:7
+msgid "Tablas con imágenes Otra tabla"
+msgstr ""
+
+#: ../../cap03.rst:9
+msgid "**Super tabla+**"
+msgstr ""
+
+#: ../../cap03.rst:12
+msgid "Pruebas"
+msgstr ""
+
+#: ../../cap03.rst:12
+msgid "Cantidad"
+msgstr ""
+
+#: ../../cap03.rst:12
+#: ../../cap03.rst:25
+msgid "Total"
+msgstr ""
+
+#: ../../cap03.rst:14
+msgid "Segunda prueba"
+msgstr ""
+
+#: ../../cap03.rst:14
+#: ../../cap03.rst:27
+#: ../../cap03.rst:29
+#: ../../cap03.rst:29
+msgid "1"
+msgstr ""
+
+#: ../../cap03.rst:14
+msgid "3"
+msgstr ""
+
+#: ../../cap03.rst:18
+msgid "Espero que haya salido una tabla"
+msgstr ""
+
+#: ../../cap03.rst:20
+msgid "*¿Saldría una tabla?*"
+msgstr ""
+
+#: ../../cap03.rst:22
+msgid "**Sí, salió una tabla**"
+msgstr ""
+
+#: ../../cap03.rst:25
+msgid "Meses"
+msgstr ""
+
+#: ../../cap03.rst:25
+msgid "Años"
+msgstr ""
+
+#: ../../cap03.rst:27
+msgid "Tercer prueba"
+msgstr ""
+
+#: ../../cap03.rst:27
+msgid "4"
+msgstr ""
+
+#: ../../cap03.rst:29
+msgid "Con dos columnas"
+msgstr ""
+
+#: ../../cap03.rst:31
+msgid "Una columna"
+msgstr ""
+
+#: ../../cap03.rst:31
+msgid "Dos columnas"
+msgstr ""
+
+#: ../../cap03.rst:36
+msgid "Tal vez sea una sub sección"
+msgstr ""
+
+#: ../../cap03.rst:38
+msgid "Primer elemento de lista"
+msgstr ""
+
+#: ../../cap03.rst:39
+msgid "Segundo"
+msgstr ""
+
+#: ../../cap03.rst:40
+msgid "Tercero"
+msgstr ""
+
+#: ../../cap03.rst:42
+msgid "sub lista?"
+msgstr ""
+
+#: ../../cap03.rst:43
+msgid "será?"
+msgstr ""
+
+#: ../../cap03.rst:46
+msgid "***Veremos***"
+msgstr ""
+
+#: ../../cap03.rst:49
+msgid "Ya ví"
+msgstr ""
+
+#: ../../cap03.rst:51
+msgid "¿será que se inserta una imagen aquí?"
+msgstr ""
+
+#: ../../cap03.rst:53
+msgid "|igor1|:"
+msgstr ""
+
+#: ../../cap03.rst:55
+msgid "*si no veo la imagen arriba de esto es que no ess así*"
+msgstr ""
+
+#: ../../cap03.rst:58
+msgid "|igor1|"
+msgstr ""
+
+#: ../../cap03.rst:62
+msgid "Otra imagen"
+msgstr ""
+
+#: ../../cap03.rst:66
+msgid "¿Una fórmula?"
+msgstr ""
+
+#: ../../cap03.rst:72
+msgid "where:"
+msgstr ""
+
+#: ../../cap03.rst:74
+msgid ":math:`Y` = vector of principal components"
+msgstr ""
+
+#: ../../cap03.rst:75
+msgid ":math:`D` = matrix of eigenvectors of the covariance matrix :math:`C_x` in X space"
+msgstr ""
+
+#: ../../cap03.rst:76
+msgid ":math:`t` denotes vector transpose"
+msgstr ""
+
+#: ../../cap03.rst:78
+msgid "And :math:`X` is calculated as:"
+msgstr ""
+
+#: ../../cap03.rst:83
+msgid ":math:`P` = vector of spectral values associated with each pixel"
+msgstr ""
+
+#: ../../cap03.rst:84
+msgid ":math:`M` = vector of the mean associated with each band"
+msgstr ""
+
+#: ../../cap03.rst:86
+msgid "The second formula :ref:`introduccionr`"
+msgstr ""
+
+#: ../../cap03.rst:91
+msgid "Explicación:"
+msgstr ""
+
+#: ../../cap03.rst:93
+msgid ":math:`D` = Distancia caminada hoy"
+msgstr ""
+
+#: ../../cap03.rst:95
+msgid ">Todo lo anterior fue copiado del SCP_Manual"
+msgstr ""
+
+#: ../../cap03.rst:98
+msgid "**Mira:**"
+msgstr ""
+
+#: ../../cap03.rst:100
+msgid "Este enlace al documento cap02.rst :ref:`Sueldo`:"
+msgstr ""
+
+#: ../../cap03.rst:102
+msgid "Dime si funciona"
+msgstr ""
+
+#: ../../cap03.rst:104
+msgid "Mira :ref:`elsuelo` para mayor información."
+msgstr ""
+

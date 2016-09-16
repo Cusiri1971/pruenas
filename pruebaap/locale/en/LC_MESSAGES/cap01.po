@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Igor F. Dávalos Rojas
+# This file is distributed under the same license as the Tercera Prueba
+# Sphinx package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tercera Prueba Sphinx 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-15 11:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: ../../cap01.rst:5
+msgid "PARTE DE INTRODUCCION"
+msgstr ""
+
+#: ../../cap01.rst:16
+msgid "Primera Sección"
+msgstr ""
+
+#: ../../cap01.rst:18
+msgid ""
+"Si escribo un párrafo normal ¿será que ya el título aparece solo en una "
+"página?"
+msgstr ""
+
+#: ../../cap01.rst:20
+msgid "Mi primer fórmula:"
+msgstr ""
+
+#: ../../cap01.rst:24
+msgid "Una tabla"
+msgstr ""
+
+#: ../../cap01.rst:26
+msgid "**Primer Super tabla**"
+msgstr ""
+
+#: ../../cap01.rst:29
+msgid "Pruebas"
+msgstr ""
+
+#: ../../cap01.rst:29
+msgid "Cantidad"
+msgstr ""
+
+#: ../../cap01.rst:29
+msgid "Total"
+msgstr ""
+
+#: ../../cap01.rst:31
+msgid "Primera prueba"
+msgstr ""
+
+#: ../../cap01.rst:31
+msgid "2"
+msgstr ""
+
+#: ../../cap01.rst:35
+msgid "Espero que haya salido una tabla"
+msgstr ""
+
+#: ../../cap01.rst:37
+msgid "*¿Saldría una tabla?*"
+msgstr ""
+
+#: ../../cap01.rst:39
+msgid ""
+"*Mi nombre* como ejemplo |igor|: con este tamaño se puede mostrar una "
+"imagen en línea con el texto. :guilabel:`Esta es una citación` será????"
+msgstr ""
+
+#: ../../cap01.rst:41
+msgid "Salió?"
+msgstr ""
+
+#: ../../cap01.rst:43
+msgid ":guilabel:`Sí salió`"
+msgstr ""
+
+#: ../../cap01.rst:48
+msgid "Por poco"
+msgstr ""
+
+#: ../../cap01.rst:49
+msgid "Ya tengo mayores conocimientos sobre el lenguaje RST."
+msgstr ""
+
+#: ../../cap01.rst:51
+msgid "Faltan solo algunos :guilabel:`Detalles`"
+msgstr ""
+
+#: ../../cap01.rst:56
+msgid "Segunda sección"
+msgstr ""
+
+#: ../../cap01.rst:58
+msgid ""
+"En esta sección se escribira algo para mostrar que en un páarafo normal "
+"las líneas manuales son omitidas y se hace el que no tiene. Esta es la "
+"tercer línea dentro del rst."
+msgstr ""
+
+#: ../../cap01.rst:65
+msgid "PARTE DE MANEJO"
+msgstr ""
+
+#: ../../cap01.rst:68
+msgid "Voy a escribir un párrafo y debajo una sangría"
+msgstr ""
+
+#: ../../cap01.rst:68
+msgid "¿se habrá aplicado la sangría?"
+msgstr ""
+
+#: ../../cap01.rst:70
+msgid "No, creo que no. ::"
+msgstr ""
+
+#: ../../cap01.rst:72
+msgid ""
+"Ahora es un párrafo que respeta las líneas manuales introducidas en el "
+"archivo RST. Debería verse como en el código."
+msgstr ""
+
+#: ../../cap01.rst:78
+msgid "Regresa al cap02 donde hay una :ref:`pregunta` ."
+msgstr ""
+
