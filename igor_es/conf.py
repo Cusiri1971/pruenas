@@ -103,6 +103,10 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 #todo_include_todos = True
 
+numfig = True
+
+numfig_secnum_depth = 0
+
 
 # -- Options for HTML output ----------------------------------------------
 

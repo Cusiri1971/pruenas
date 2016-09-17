@@ -1,9 +1,10 @@
 \select@language {spanish}
-\contentsline {part}{I\hspace {1em}EL COMIENZO DEL CAOS}{3}{part.1}
-\contentsline {chapter}{\numberline {1}PRIMEROS PASOS}{5}{chapter.1}
-\contentsline {section}{\numberline {1.1}Buscando Ayuda sobre Sphinx}{5}{section.1.1}
-\contentsline {section}{\numberline {1.2}Ayuda Encontrada}{5}{section.1.2}
-\contentsline {section}{\numberline {1.3}Requerimientos Iniciales}{6}{section.1.3}
-\contentsline {part}{II\hspace {1em}ANEXO}{7}{part.2}
-\contentsline {chapter}{\numberline {2}Enlaces Utiles}{9}{chapter.2}
-\contentsline {part}{III\hspace {1em}Indices and tables}{11}{part.3}
+\contentsline {part}{I\hspace {1em}EL COMIENZO DEL CAOS}{1}{part.1}
+\contentsline {chapter}{\numberline {1}PRIMEROS PASOS}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Buscando Ayuda sobre Sphinx}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Ayuda Encontrada}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Requerimientos Iniciales}{4}{section.1.3}
+\contentsline {part}{II\hspace {1em}ANEXO}{5}{part.2}
+\contentsline {chapter}{\numberline {2}Enlaces Utiles}{6}{chapter.2}
+\contentsline {part}{III\hspace {1em}Indices and tables}{7}{part.3}
+\contentsline {chapter}{Bibliograf\'{\i }a}{9}{chapter*.9}

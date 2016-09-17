@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.14)  14 SEP 2016 14:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.16)  16 SEP 2016 01:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **ComenzandoconGitHub.tex
 (./ComenzandoconGitHub.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 8 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 58 language(s) loaded.
 (./sphinxmanual.cls
 Document Class: sphinxmanual 2009/06/02 Document class (Sphinx manual)
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
@@ -1135,12 +1135,12 @@ Package rerunfilecheck Info: File `ComenzandoconGitHub.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 410.
  ) 
 Here is how much of TeX's memory you used:
- 9659 strings out of 494850
- 135096 string characters out of 6178024
- 232613 words of memory out of 5000000
- 12605 multiletter control sequences out of 15000+600000
+ 9659 strings out of 493235
+ 135096 string characters out of 6142738
+ 236186 words of memory out of 5000000
+ 12807 multiletter control sequences out of 15000+600000
  68245 words of font info for 77 fonts, out of 8000000 for 9000
- 63 hyphenation exceptions out of 8191
+ 1067 hyphenation exceptions out of 8191
  36i,13n,45p,261b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm

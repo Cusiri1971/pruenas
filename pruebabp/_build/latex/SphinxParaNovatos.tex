@@ -135,20 +135,47 @@
 \phantomsection\label{index::doc}
 
 
-Contents:
-
 
 \part{EL COMIENZO DEL CAOS}
-\label{parte01:welcome-to-sphinx-para-novatos-s-documentation}\label{parte01:primera-parte}\label{parte01:el-comienzo-del-caos}\label{parte01::doc}
+\label{parte01:welcome-to-sphinx-para-novatos-s-documentation}\label{parte01:primera-parte}\label{parte01:el-comienzo-del-caos}\label{parte01::doc}\setbox0\vbox{
+\begin{minipage}{0.95\linewidth}
+\textbf{Es mi tabla de contenidos}
+
+\medskip
+
+\begin{itemize}
+\item {} 
+\phantomsection\label{parte01:id8}{\hyperref[parte01:el\string-comienzo\string-del\string-caos]{\emph{EL COMIENZO DEL CAOS}}} (\autopageref*{parte01:el-comienzo-del-caos})
+\begin{itemize}
+\item {} 
+\phantomsection\label{parte01:id9}{\hyperref[parte01:primeros\string-pasos]{\emph{PRIMEROS PASOS}}} (\autopageref*{parte01:primeros-pasos})
+\begin{itemize}
+\item {} 
+\phantomsection\label{parte01:id10}{\hyperref[parte01:buscando\string-ayuda\string-sobre\string-sphinx]{\emph{Buscando Ayuda sobre Sphinx}}} (\autopageref*{parte01:buscando-ayuda-sobre-sphinx})
+
+\item {} 
+\phantomsection\label{parte01:id11}{\hyperref[parte01:ayuda\string-encontrada]{\emph{Ayuda  Encontrada}}} (\autopageref*{parte01:ayuda-encontrada})
+
+\item {} 
+\phantomsection\label{parte01:id12}{\hyperref[parte01:requerimientos\string-iniciales]{\emph{Requerimientos Iniciales}}} (\autopageref*{parte01:requerimientos-iniciales})
+
+\end{itemize}
+
+\end{itemize}
+
+\end{itemize}
+\end{minipage}}
+\begin{center}\setlength{\fboxsep}{5pt}\shadowbox{\box0}\end{center}
+
 
 \chapter{PRIMEROS PASOS}
 \label{parte01:primeros-pasos}\label{parte01:id3}
-La instalación de \code{Sphinx} \footnote[1]{
+La instalación de \textbf{Sphinx} \footnote[1]{
 Página web de \href{http://sphinx-doc.org/}{Sphinx} (http://sphinx-doc.org/)
 } es sencilla. El uso del lenguaje \textbf{reStructuredText} es muy fácil de entender y sencillo de implementar cuando se lo utiliza a diario.
 Sabiendo esto, puedes elaborar documentos que van desde una estructuración sencilla a una muy compleja.
 Inicié esta referencia en español como una práctica más para entender como se puede sacar el máximo provecho a Sphinx y al lenguaje RST sin ser un desarrollador
-ni tener conocimientos sobre \code{Python} \footnote[2]{
+ni tener conocimientos sobre \textbf{Python} \footnote[2]{
 Página web de \href{http://www.python.org/}{Python} (http://www.python.org/)
 } o similares.
 
@@ -157,7 +184,7 @@ Página web de \href{http://www.python.org/}{Python} (http://www.python.org/)
 \label{parte01:buscando-ayuda}\label{parte01:buscando-ayuda-sobre-sphinx}
 La idea del creador de \code{Sphinx} (desarrollado en \code{Python}) fue tener a disposición de los desarrolladores una aplicación que les permita elaborar sus guías, manuales, y demás documentos de forma sencilla (para ellos, claro), dándoles las herramientas necesarias con las cuales puedan enlazar imágenes, tablas, código de sus programas y lo que vieran conveniente.
 
-En este contexto, es que me topé con que la mayor parte de la docuentación está más destinada a ser entendida por desarrolladores y no así por usuarios novatos o también llamados usuarios finales o comunes. Pues para un usuario común que necesita una aplicación para crear documentos de uso diario existen otras alternativas que son \emph{fáciles} de aprender, como por ejemplo: ApacheOpenOffice writer, LibreOffice writer, Abiword, MS Word, Wordperfect, Etc.
+En este contexto, es que me topé con que la mayor parte de la documentación está más destinada a ser entendida por desarrolladores y no así por usuarios novatos o también llamados usuarios finales o comunes. Pues para un usuario común que necesita una aplicación para crear documentos de uso diario existen otras alternativas que son \emph{fáciles} de aprender, como por ejemplo: ApacheOpenOffice writer, LibreOffice writer, Abiword, MS Word, Wordperfect, Etc.
 
 
 \section{Ayuda  Encontrada}
@@ -214,6 +241,13 @@ aaa
 \DUspan{xref,std,std-ref}{search}
 
 \end{itemize}
+
+\begin{thebibliography}{CIT2016}
+\bibitem[CIT2016]{CIT2016}{\phantomsection\label{parte01:cit2016} 
+Ejemplo de una cta bibliograf
+(Que a veces es bibliográfica otras solo de referencia.)
+}
+\end{thebibliography}
 
 
 

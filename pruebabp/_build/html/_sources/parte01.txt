@@ -16,6 +16,15 @@
 
 .. [#] Página web de Python_
 
+.. [#IDR] Igor Francisco Dávalos Rojas
+
+
+.. Z Citas
+
+.. [CIT2016] Ejemplo de una cta bibliograf
+		(Que a veces es bibliográfica otras solo de referencia.)
+
+
 
 
 .. _primera_parte:
@@ -23,16 +32,23 @@
 *********************
 EL COMIENZO DEL CAOS
 *********************
+.. |br| raw:: html
+
+ <br />
+
+.. contents:: Es mi tabla de contenidos
+	:depth: 4
+
 
 .. _primeros_pasos:
 
 PRIMEROS PASOS
 ***************
 
-La instalación de ``Sphinx`` [#]_ es sencilla. El uso del lenguaje **reStructuredText** es muy fácil de entender y sencillo de implementar cuando se lo utiliza a diario.
+La instalación de **Sphinx** [#]_ es sencilla. El uso del lenguaje **reStructuredText** es muy fácil de entender y sencillo de implementar cuando se lo utiliza a diario.
 Sabiendo esto, puedes elaborar documentos que van desde una estructuración sencilla a una muy compleja.
 Inicié esta referencia en español como una práctica más para entender como se puede sacar el máximo provecho a Sphinx y al lenguaje RST sin ser un desarrollador
-ni tener conocimientos sobre ``Python`` [#]_ o similares.
+ni tener conocimientos sobre **Python** [#]_ o similares.
 
 
 .. _buscando_ayuda:
@@ -42,7 +58,7 @@ Buscando Ayuda sobre Sphinx
 
 La idea del creador de ``Sphinx`` (desarrollado en ``Python``) fue tener a disposición de los desarrolladores una aplicación que les permita elaborar sus guías, manuales, y demás documentos de forma sencilla (para ellos, claro), dándoles las herramientas necesarias con las cuales puedan enlazar imágenes, tablas, código de sus programas y lo que vieran conveniente.
 
-En este contexto, es que me topé con que la mayor parte de la docuentación está más destinada a ser entendida por desarrolladores y no así por usuarios novatos o también llamados usuarios finales o comunes. Pues para un usuario común que necesita una aplicación para crear documentos de uso diario existen otras alternativas que son *fáciles* de aprender, como por ejemplo: ApacheOpenOffice writer, LibreOffice writer, Abiword, MS Word, Wordperfect, Etc.
+En este contexto, es que me topé con que la mayor parte de la documentación está más destinada a ser entendida por desarrolladores y no así por usuarios novatos o también llamados usuarios finales o comunes. Pues para un usuario común que necesita una aplicación para crear documentos de uso diario existen otras alternativas que son *fáciles* de aprender, como por ejemplo: ApacheOpenOffice writer, LibreOffice writer, Abiword, MS Word, Wordperfect, Etc.
 
 
 .. _ayuda_encontrada:
@@ -70,4 +86,5 @@ necesitarás usar un ``editor de textos`` como el que viene instalado por defect
 * Para **Windows** tienes:
 
 	* block de notas, el notepad++ este último muy recomendado pues posee complementos para el resaltado de código y permite cambiar la codificación de caracteres.
+
 

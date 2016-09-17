@@ -15,11 +15,11 @@
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{\sphinxdocclass}}
 \ProcessOptions\relax
 
-% Defaults two-side document
+% Defaults two-side document // código: twoside
 \if@oneside
 % nothing to do (oneside is the default)
 \else
-\PassOptionsToClass{twoside}{\sphinxdocclass}
+\PassOptionsToClass{oneside}{\sphinxdocclass}
 \fi
 
 \LoadClass{\sphinxdocclass}
